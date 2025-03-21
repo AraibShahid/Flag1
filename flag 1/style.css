@@ -1,0 +1,21 @@
+.flag {
+
+    background-color: black;
+    height: 210px;
+    width: 350px;
+    
+}
+.man{
+    height: 115px;
+    width: 115px;
+    margin-top: 35px;
+    margin-left: 120px;
+}
+
+.sec{
+    height: 105px;
+    width: 350px;
+    position: absolute;
+    background-color: red;
+
+}
